@@ -1,0 +1,20 @@
+[
+  {
+    "title": "El hombre aragna",
+    "price": "395.59",
+    "thumbnail": "./abc.png",
+    "id": 1
+  },
+  {
+    "title": "Hola Como Va",
+    "price": "800.00",
+    "thumbnail": "./def.png",
+    "id": 2
+  },
+  {
+    "title": "KonePF",
+    "price": "127.99",
+    "thumbnail": "./ghi.png",
+    "id": 3
+  }
+]
